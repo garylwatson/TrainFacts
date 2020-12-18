@@ -1,2 +1,5 @@
-"./vscode/*"
-"./token.txt"
+#ignore vscode bloat
+./vscode/*
+
+#ignore token
+./token.txt
